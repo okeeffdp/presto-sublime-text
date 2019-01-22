@@ -1,6 +1,6 @@
 {
 	"name" : "Symbol List",
-	"scope": "source.hive storage.type.parameter.hive, source.hive storage.type.definition.hive",
+	"scope": "source.presto storage.type.parameter.presto, source.presto storage.type.definition.presto",
 	"settings": {
 		"showInSymbolList": 1
 	},

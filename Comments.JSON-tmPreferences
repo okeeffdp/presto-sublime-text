@@ -1,7 +1,7 @@
 {
 
     "name": "Comment",
-    "scope": "source.hive",
+    "scope": "source.presto",
     "settings" : {
     	"shellVariables" : [{"name" : "TM_COMMENT_START", "value": "-- "}]
     },

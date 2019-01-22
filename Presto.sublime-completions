@@ -1,5 +1,5 @@
 {
-        "scope" : "source.hive",
+        "scope" : "source.presto",
 
         "completions" :
         [

@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Symbol List</string>
 	<key>scope</key>
-	<string>source.hive storage.type.parameter.hive, source.hive storage.type.definition.hive</string>
+	<string>source.presto storage.type.parameter.presto, source.presto storage.type.definition.presto</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
